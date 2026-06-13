@@ -1,0 +1,21 @@
+USE Academ;
+
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024001', 'Juan Perez', 75.5);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024002', 'Maria Lopez', 74.5);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024004', 'Ana Morales', 61.75);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024005', 'Luis Garcia', 68.75);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024007', 'Diego Martinez', 67);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024008', 'Sofia Hernandez', 74);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024009', 'Jorge Reyes', 72.5);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024011', 'Kevin Flores', 58.25);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024012', 'Andrea Cruz', 72);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024013', 'Miguel Soto', 67);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024015', 'Daniel Ortiz', 64);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024016', 'Gabriela Ruiz', 79.75);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024017', 'Ricardo Aguilar', 69);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024018', 'Lucia Herrera', 63.25);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024020', 'Karla Vasquez', 76.25);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024021', 'Oscar Cabrera', 70.75);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024022', 'Camila Pineda', 77);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024024', 'Natalia Leon', 77);
+INSERT INTO estudiantes_activos (carnet, nombre, promedio) VALUES ('2024025', 'Jose Delgado', 79.75);
